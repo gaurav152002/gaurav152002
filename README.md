@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gauravjith S
 
-### ☁️ AWS Cloud & DevOps Engineer
+### ☁️ AWS Cloud & DevOps 
 
 📍 India | 💼 Open to Cloud / DevOps Engineer roles  
 📧 gauravjith1015@gmail.com  
