@@ -3,7 +3,7 @@
 ### ☁️ AWS Cloud & DevOps Engineer
 
 📍 India | 💼 Open to Cloud / DevOps Engineer roles  
-📧 gauravjith1015@gmail.com | 📱 +91 7356126441  
+📧 gauravjith1015@gmail.com  
 🔗 [GitHub](https://github.com/gaurav152002) | [LinkedIn](https://www.linkedin.com/in/gauravjith-s-a04818301/)
 
 ---
